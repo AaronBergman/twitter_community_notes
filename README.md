@@ -1,3 +1,12 @@
+Tl;dr the files are too big so:
+
+**All related files can be found at the public drive:** [https://drive.google.com/drive/folders/1wZl90T37h3qDG7QnJGoI_F8G1KX2Z_6S?usp=drive_link](https://drive.google.com/drive/folders/1wZl90T37h3qDG7QnJGoI_F8G1KX2Z_6S?usp=drive_link) 
+
+**Current checkpoint data is available for download at:** [https://drive.google.com/uc?export=download&id=1zTJsCLyiPZM5LHWImm4zgHRmeVkzPjA9](https://drive.google.com/uc?export=download&id=1zTJsCLyiPZM5LHWImm4zgHRmeVkzPjA9) 
+
+
+---
+
 # Twitter Community Notes Data Processing
 
 This repository contains tools and documentation for working with Twitter Community Notes data. The project includes:
