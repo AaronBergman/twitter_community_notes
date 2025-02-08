@@ -3,13 +3,13 @@
 This repository contains tools and documentation for working with Twitter Community Notes data. The project includes:
 
 - **Downloading Data:** Instructions on accessing the public Community Notes snapshots from Twitter.  
-  **Data Source:** All Community Notes data was obtained from [https://x.com/i/communitynotes/download-data](https://x.com/i/communitynotes/download-data) citeturn0search0.
+  **Data Source:** All Community Notes data was obtained from [https://x.com/i/communitynotes/download-data](https://x.com/i/communitynotes/download-data) 
 - **Scraping Tweet Data:** A Python script that uses Selenium to load tweet embeds and extract tweet text.
 - **Data Combination:** An R Markdown (.Rmd) script to join the scraped tweet data with the downloaded Community Notes data, as well as a Python utility to convert scraped files into a single CSV file.
 
-**All related files can be found at the public drive:** [https://drive.google.com/drive/folders/1wZl90T37h3qDG7QnJGoI_F8G1KX2Z_6S?usp=drive_link](https://drive.google.com/drive/folders/1wZl90T37h3qDG7QnJGoI_F8G1KX2Z_6S?usp=drive_link) citeturn0search0.
+**All related files can be found at the public drive:** [https://drive.google.com/drive/folders/1wZl90T37h3qDG7QnJGoI_F8G1KX2Z_6S?usp=drive_link](https://drive.google.com/drive/folders/1wZl90T37h3qDG7QnJGoI_F8G1KX2Z_6S?usp=drive_link) 
 
-**Current checkpoint data is available for download at:** [https://drive.google.com/uc?export=download&id=1zTJsCLyiPZM5LHWImm4zgHRmeVkzPjA9](https://drive.google.com/uc?export=download&id=1zTJsCLyiPZM5LHWImm4zgHRmeVkzPjA9) citeturn0search0.
+**Current checkpoint data is available for download at:** [https://drive.google.com/uc?export=download&id=1zTJsCLyiPZM5LHWImm4zgHRmeVkzPjA9](https://drive.google.com/uc?export=download&id=1zTJsCLyiPZM5LHWImm4zgHRmeVkzPjA9) 
 
 Obviously, this was written by ChatGPT (o3-mini-high). Thanks Mr. ChatGPT.
 
