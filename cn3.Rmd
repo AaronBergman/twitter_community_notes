@@ -1,0 +1,46 @@
+```{r}
+cn=fread("notes-00000.tsv")
+```
+
+```{r}
+#cn_small=head(cn,10000)
+
+tweets=paste0('https://x.com/user/status/',cn$tweetId)
+
+write_lines(tweets,"cn_tweet_urls.txt")
+  
+```
+
+
+
+
+
+
+```{r}
+cn=fread("notes-00000.tsv")%>%as_tibble()%>%
+  mutate(tweetId=as.character(tweetId))
+```
+
+```{r}
+cp1=fread("cn_scrape/tweet_data.csv")%>%as_tibble
+
+cp1_filtered=cp1%>%
+  filter(tweet_text!="" & tweet_text!="Not found")%>%
+  mutate(tweetId=str_extract(tweet_url,"\\d+"))
+
+cn_subset=cn%>%
+  filter(tweetId%in%cp1_filtered$tweetId)
+
+cp1_filtered=cp1_filtered%>%
+  inner_join(cn_subset,by="tweetId")
+  
+fwrite(cp1_filtered,"cn_scrape/tweet_data_checkpoint_1.csv")
+```
+
+```{r}
+length(cp1_filtered$txt_file_path)/length(unique(cp1_filtered$txt_file_path))
+```
+```{r}
+length(unique(cn$tweetId))
+```
+
