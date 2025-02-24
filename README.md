@@ -2,8 +2,7 @@ Tl;dr the files are too big so:
 
 **All related files can be found at the public drive:** [https://drive.google.com/drive/folders/1wZl90T37h3qDG7QnJGoI_F8G1KX2Z_6S?usp=drive_link](https://drive.google.com/drive/folders/1wZl90T37h3qDG7QnJGoI_F8G1KX2Z_6S?usp=drive_link) 
 
-**Current checkpoint data is available for download at:** [[https://drive.google.com/uc?export=download&id=1zTJsCLyiPZM5LHWImm4zgHRmeVkzPjA9](https://drive.google.com/uc?export=download&id=1Fhvfo2p8Dc0eWKw8Pp41gdj5Cekcrl4j)]([https://drive.google.com/uc?export=download&id=1zTJsCLyiPZM5LHWImm4zgHRmeVkzPjA9](https://drive.google.com/uc?export=download&id=1Fhvfo2p8Dc0eWKw8Pp41gdj5Cekcrl4j)) 
-
+**Current checkpoint data is available for download at:** [[https://drive.google.com/uc?export=download&id=1zTJsCLyiPZM5LHWImm4zgHRmeVkzPjA9](https://drive.google.com/uc?export=download&id=1Fhvfo2p8Dc0eWKw8Pp41gdj5Cekcrl4j)]
 
 ---
 
